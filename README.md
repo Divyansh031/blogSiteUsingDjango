@@ -5,10 +5,16 @@ Django Blog Site
 
 Features
 Create, Read, Update, and Delete (CRUD) blog posts
+
+
 Simple and clean user interface
+
+
 Django-based backend
 
 Project Structure:
+
+
 blog/
 │── blog/            # Django app for blog functionality
 │── posts/           # Django app for posts functionality
