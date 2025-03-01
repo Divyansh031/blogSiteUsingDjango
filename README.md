@@ -22,3 +22,32 @@ Python
 Django
 SQLite 
 HTML and CSS
+
+
+Installation & Setup:
+1. Clone the Repository
+
+git clone https://github.com/Divyansh031/blogSiteUsingDjango.git
+cd blog
+
+2. Create a Virtual Environment
+
+python -m venv venv
+source venv/bin/activate  # For Linux/macOS
+venv\Scripts\activate  # For Windows
+
+3. Install Dependencies
+
+pip install -r requirements.txt
+
+
+4. Apply Migrations
+
+python manage.py migrate
+
+
+5. Run the Development Server
+
+python manage.py runserver
+
+Now open http://127.0.0.1:8000 in your browser.
