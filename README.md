@@ -17,7 +17,7 @@ A simple **Django-based blog site** that allows users to **Create, Read, Update,
 
 blogSiteUsingDjango/ │── blog/ # Django app for blog functionality │── posts/ # Django app for posts functionality │── templates/ # HTML templates for frontend │── db.sqlite3 # SQLite database file │── manage.py # Django management script └── README.md # Project documentation
 
-t
+
 
 ---
 
